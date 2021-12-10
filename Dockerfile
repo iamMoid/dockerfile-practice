@@ -1,3 +1,4 @@
+# author: Abdul Moid Mohammed
 FROM jupyter/minimal-notebook
 
 RUN conda update conda
